@@ -30,6 +30,5 @@ end
 
 def matrix_update(matrix, row, column, new_value)
   [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY][0][2] = "Tiny Ewell"
-  # Update the matrix location at row and column to have the value of new_value
-  # Return the updated matrix
+  [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
 end
